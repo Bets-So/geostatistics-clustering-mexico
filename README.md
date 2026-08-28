@@ -1,2 +1,2 @@
 # geostatistics-clustering-mexico
-Geospatial Analysis in Rstudio of Femicides in Mexico during period of 2014-2020. 
+Geospatial analysis in R of femicides in Mexico (2014–2020)
