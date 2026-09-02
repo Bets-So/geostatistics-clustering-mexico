@@ -1,6 +1,6 @@
 Initial README publication with structure, findings, and cartographic outputs.
 
-# Geospatial Analysis of Femicides in Mexico (2010–2020)
+# Geospatial Analysis of Femicides in Mexico (2014–2018)
 
 Investigative geostatistical modeling of femicides across Mexican municipalities using open INEGI data, proposing a spatial classification methodology to identify clusters and inform decision-making.
 
@@ -10,9 +10,9 @@ Investigative geostatistical modeling of femicides across Mexican municipalities
 
 Femicide is a critical social issue in Mexico that has neither been recognized in official records nor identified as a phenomenon significantly linked to geographic space, due to a lack of research and gender perspective.
 
-This project explores femicide incidence between 2010 and 2020 to test the hypothesis of significant regional variations. It also examines spatial patterns to identify clusters and propose a methodology that can be extended to future analyses.
+This project explores femicide incidence between 2014 and 2018 to test the hypothesis of significant regional variations. It also examines spatial patterns to identify clusters and propose a methodology that can be extended to future analyses.
 
-Originally developed as my undergraduate thesis in Actuarial Science at UNAM (2020).
+Originally developed as my undergraduate thesis in Actuarial Science at UNAM (2014).
 
 ---
 
@@ -28,7 +28,7 @@ Originally developed as my undergraduate thesis in Actuarial Science at UNAM (20
 ## Data
 
 - **Source:** [INEGI open datasets — Registered Deaths Statistics](https://www.inegi.org.mx/programas/edr/#microdatos)
-- **Period:** 2010–2020
+- **Period:** 2014–2018
 - **Granularity:** Municipal-level
 
 ---
@@ -79,17 +79,17 @@ geostatistics-clustering-mexico/
 
 ### Main result
 
-![LISA Cluster Map of Femicide Rates, Mexico 2010–2020](outputs/maps/lisa_femicide_clusters_2010_2020.png)
+![LISA Cluster Map of Femicide Rates, Mexico 2010–2020](outputs/maps/lisa_femicide_clusters_2014_2028.png)
 
 *Source: own analysis using GEODA.*
 
 ### Supporting visualizations
 
-![Standard femicide rates by municipality, 2010–2020](outputs/maps/femicide_standard_rates_2010_2020.png)
+![Standard femicide rates by municipality, 2010–2020](outputs/maps/femicide_standard_rates_2014_2018.png)
 
 *Choropleth of absolute rates before spatial dependence analysis. Source: own analysis with INEGI data.*
 
-![Moran's I scatter plot](outputs/maps/moran_scatter_2010_2020.png)
+![Moran's I scatter plot](outputs/maps/moran_scatter_2014_2018.png)
 
 *Global Moran's I indicating significant positive spatial autocorrelation. Source: own analysis using GEODA.*
 
