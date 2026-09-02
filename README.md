@@ -1,5 +1,3 @@
-Initial README publication with structure, findings, and cartographic outputs.
-
 # Geospatial Analysis of Femicides in Mexico (2014–2018)
 
 Investigative geostatistical modeling of femicides across Mexican municipalities using open INEGI data, proposing a spatial classification methodology to identify clusters and inform decision-making.
@@ -12,7 +10,7 @@ Femicide is a critical social issue in Mexico that has neither been recognized i
 
 This project explores femicide incidence between 2014 and 2018 to test the hypothesis of significant regional variations. It also examines spatial patterns to identify clusters and propose a methodology that can be extended to future analyses.
 
-Originally developed as my undergraduate thesis in Actuarial Science at UNAM: research completed in 2021, formally defended in 2025.
+Originally developed as my undergraduate thesis in Actuarial Science at UNAM: research 2020-2021, formally defended in 2025.
 
 ---
 
