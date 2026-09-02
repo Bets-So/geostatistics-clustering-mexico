@@ -87,7 +87,7 @@ geostatistics-clustering-mexico/
 
 ![Standard femicide rates by municipality, 2014–2018](outputs/maps/femicide_standard_rates_2014_2018.png)
 
-*Choropleth of absolute rates before spatial dependence analysis. Source: own analysis with INEGI data.*
+*Choropleth of standardized femicide rates per 10,000 inhabitants at municipal level. Source: INEGI Mortality Statistics + CONAPO 2016 mid-year population projections. Own analysis with R.*
 
 ![Moran's I scatter plot](outputs/maps/moran_scatter_2014_2018.png)
 
