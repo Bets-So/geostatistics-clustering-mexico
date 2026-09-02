@@ -91,8 +91,7 @@ geostatistics-clustering-mexico/
 
 ![Moran's I scatter plot](outputs/maps/moran_scatter_2014_2018.png)
 
-*Global Moran's I indicating significant positive spatial autocorrelation. Source: own analysis using GEODA.*
-
+*Global Moran's I = 0.079, statistically significant (z-value 6.67, pseudo p-value 0.001 with 999 permutations), confirming positive spatial autocorrelation of femicide rates at the municipal level. Source: own analysis using GEODA.*
 
 
 
