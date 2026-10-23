@@ -80,6 +80,7 @@ geostatistics-clustering-mexico/
 ![LISA Cluster Map of Femicide Rates, Mexico 2014–2018](outputs/maps/lisa_femicide_clusters_2014_2018.png)
 
 *Source: own analysis using GEODA.*
+*Numbers in parentheses indicate the number of municipalities in each category.*
 
 ### Supporting visualizations
 
