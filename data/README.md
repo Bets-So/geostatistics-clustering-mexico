@@ -59,13 +59,15 @@ Current data: https://www.datos.gob.mx/dataset/proyecciones-de-poblacion
 > Current data: https://www.datos.gob.mx/dataset/proyecciones-de-poblacion
 
 
-## 3. Municipal boundaries
+## 3. Geographic boundaries
 
 - **Source:** National Institute of Statistics and Geography (INEGI),
-  *Marco Geoestadístico* 2016.
-- **File:** `MUNICIPIOS.shp`, provided by the thesis advisor.
-- **Join key:** `CVE_ENT` + `CVE_MUN` (5-digit municipal code).
+  *Marco Geoestadístico*, September 2019 (integrated version).
 - **Link:** https://www.inegi.org.mx/temas/mg/
+- **Files used** (archived in `data/raw/Mapa/`):
+  - `MUNICIPIOS.shp`: municipal boundaries.
+  - `areas_geoestadisticas_estatales.shp`: state boundaries.
+- **Join key:** `CVE_ENT` + `CVE_MUN` (5-digit municipal code).
 
 ## Expected folder structure
 
